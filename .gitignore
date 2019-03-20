@@ -1,0 +1,8 @@
+.DS_Store
+.ipynb_checkpoints/
+.udacity-pa/
+__pycache__/
+data/
+
+# project submissions 
+first_neural_network*
