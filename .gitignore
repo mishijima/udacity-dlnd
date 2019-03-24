@@ -6,3 +6,6 @@ data/
 
 # project submissions 
 first_neural_network*
+
+# don't commit save models because github max upload size is 50 mb
+*.pt
